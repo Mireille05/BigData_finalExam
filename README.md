@@ -255,7 +255,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy openpyxl
 ### Execution
 
 ```bash
-cd "C:\Users\Aime\Desktop\BigData - Exam"
+cd "C:\Users\CTRL-SHIFT LTD\Desktop\BigData - Exam"
 python notebooks/data_analysis.py
 ```
 
